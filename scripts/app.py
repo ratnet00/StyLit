@@ -6,7 +6,8 @@ from PyQt5.QtGui import QCursor
 
 #initialize GUI app
 app=QApplication(sys.argv)
-
+print("hello")
+print(sys.argv)
 
 # #global dictionary of dynamically changing widgets
 # widgets = {
